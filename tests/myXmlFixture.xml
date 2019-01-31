@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<dataset>
+    <table name="works">
+        <column>id</column>
+        <column>name</column>
+        <column>start_date</column>
+        <column>end_date</column>
+        <column>status</column>
+        <column>CDate</column>
+        <column>UDate</column>
+        <row>
+            <value>1</value>
+            <value>PHP Unit test 1</value>
+            <value>2019-01-16 17:15:23</value>
+            <value>2019-01-16 17:20:23</value>
+            <value>Planning</value>
+            <value>2019-01-16 17:00:00</value>
+            <value>2019-01-16 17:00:00</value>
+        </row>
+        <row>
+            <value>2</value>
+            <value>PHP Unit test 2</value>
+            <value>2019-01-16 17:20:23</value>
+            <value>2019-01-16 17:25:23</value>
+            <value>Doing</value>
+            <value>2019-01-16 17:00:00</value>
+            <value>2019-01-16 17:00:00</value>
+        </row>
+        <row>
+            <value>3</value>
+            <value>PHP Unit test 3</value>
+            <value>2019-01-16 17:25:23</value>
+            <value>2019-01-16 17:30:23</value>
+            <value>Complete</value>
+            <value>2019-01-16 17:00:00</value>
+            <value>2019-01-16 17:00:00</value>
+        </row>
+    </table>
+</dataset>
